@@ -6,7 +6,6 @@ import StyledHeader, { Logo, Nav, Image } from "./styles/Header.styled";
 const Header = () => {
   return (
     <Container>
-
     <StyledHeader>
       <Nav>
         <Logo src="./images/logo.png" />
@@ -15,7 +14,6 @@ const Header = () => {
           <Button bg="#A62440">Talk to Advisor</Button>
         </div>
       </Nav>
-
       <Flex>
         <div>
           <h1>The It Career of Your Dreams Starts Here!</h1>

@@ -3,7 +3,7 @@ import styled from "styled-components";
 //*esch kısayolu
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.header};
-  padding: 4rem 0;
+  padding: 1rem 0;
 `;
 
 export const Logo = styled.img`
